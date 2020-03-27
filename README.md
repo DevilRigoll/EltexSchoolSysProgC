@@ -1,6 +1,6 @@
-In every project use:
-make build
-for building project
+In every project use:\n
+make build\n
+for building project\n
 make test
 for testing project
 make clean
