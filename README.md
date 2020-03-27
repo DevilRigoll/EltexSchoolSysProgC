@@ -1,6 +1,5 @@
 In every project use:
 <hr>
-
 make build
 
 for building project
