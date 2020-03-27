@@ -4,11 +4,11 @@ In every project use:
 make build
 
 for building project
-
+<hr>
 make test
 
 for testing project
-
+<hr>
 make clean
 
 for cleaning from *.o and exe files
