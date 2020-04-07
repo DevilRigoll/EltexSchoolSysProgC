@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS=-c -lpthread
+CFLAGS=-c
 TERMINAL=gnome-terminal -e
 SRC_INC= list.c list.h msgtypes.h
 
